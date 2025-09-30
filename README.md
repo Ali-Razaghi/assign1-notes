@@ -4,7 +4,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 [https://github.com/Ali-Razaghi/assign1-notes/blob/main/comp1238.md](comp1238.md)
----
+
 ## Course schedule
 - **Tuesday**
   - 08.00 - [Web Appliction Dev](https://learn.georgebrown.ca/d2l/home/408290)
