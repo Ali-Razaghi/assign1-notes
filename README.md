@@ -7,7 +7,7 @@
 ---
 ## Course schedule
 - **Tuesday**
-  - 8.00 - [Web Appliction Dev](https://learn.georgebrown.ca/d2l/home/408290)
+  - 08.00 - [Web Appliction Dev](https://learn.georgebrown.ca/d2l/home/408290)
   - 13.00 - [Software Quality Assurance](https://learn.georgebrown.ca/d2l/home/405711)
   - 16.00 - [Intro to Data MGMT](https://learn.georgebrown.ca/d2l/home/412494)
 - **Wedensday**
